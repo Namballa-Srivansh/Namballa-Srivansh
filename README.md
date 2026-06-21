@@ -1,5 +1,3 @@
-## Hi there! 👋
-
 # Hi there! 👋
 
 I'm **Namballa-Srivansh** — a Machine Learning Engineer & Software Developer. 
@@ -7,8 +5,6 @@ I'm **Namballa-Srivansh** — a Machine Learning Engineer & Software Developer.
 Tagline: Building intelligent systems and practical web services with Python & JavaScript ⚙️🧠
 
 Always exploring ML research, reinforcement learning, and real-world applications that make data useful.
-
-## About Me
 
 ## About Me
 
@@ -28,8 +24,6 @@ Learning: advanced reinforcement learning techniques and production-ready ML dep
 ## Skills & Technologies
 
 py,pytorch,sklearn,js,nodejs,git,github,html,css,docker,linux,sqlite
-
-## Top Projects
 
 ## Top Projects ⭐
 
@@ -60,8 +54,6 @@ py,pytorch,sklearn,js,nodejs,git,github,html,css,docker,linux,sqlite
 
 (Projects chosen by recent activity, primary language, and visibility in the account.)
 
-## GitHub Stats
-
 ## GitHub Stats 📊
 
 - Public repositories: **21**
@@ -82,8 +74,6 @@ Inline badges:
 
 (These cards update automatically to reflect GitHub data.)
 
-## Recent Activity
-
 ## Recent Activity 🔔
 
 Here are the most recent public events on GitHub:
@@ -95,15 +85,11 @@ Here are the most recent public events on GitHub:
 
 For a full activity feed, visit: [Activity on GitHub](https://github.com/Namballa-Srivansh)
 
-## Latest Blog Posts
-
 ## Latest Blog Posts ✍️
 
 No public blog posts or blog link found on the profile.
 
 If you have articles or a personal site, add the URL to your GitHub profile so I can showcase them here. Meanwhile, consider writing short posts about project case studies (e.g., CIVIC-Issue-Detector or DocuMind) — they make great portfolio pieces!
-
-## Connect with Me
 
 ## Connect with Me 🔗
 
